@@ -436,6 +436,8 @@ const confirmPassword = async (password) => {
   color: #555555;
   line-height: 1.8;
   margin-bottom: 20px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
 }
 
 .detail-meta {
